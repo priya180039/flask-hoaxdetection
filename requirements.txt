@@ -1,0 +1,11 @@
+numpy
+pandas
+nltk
+bs4
+scikit-learn
+tqdm
+matplotlib
+sastrawi
+pickle
+gensim
+flask
